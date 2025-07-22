@@ -2,6 +2,8 @@
 
 A powerful, interactive **Data Structures and Algorithms Visualizer** built using **Java Swing**. This project helps students and learners visualize the working of core data structures and algorithms step-by-step, making abstract concepts intuitive and easy to understand.
 
+youtube video of project - https://youtu.be/LpGrJw7Jdhk
+
 ---
 
 ## 📌 Table of Contents
