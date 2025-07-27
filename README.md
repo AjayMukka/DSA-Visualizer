@@ -2,6 +2,10 @@
 
 A powerful, interactive **Data Structures and Algorithms Visualizer** built using **Java Swing**. This project helps students and learners visualize the working of core data structures and algorithms step-by-step, making abstract concepts intuitive and easy to understand.
 
+live link : https://ajaymukka.github.io/DSA-Visualizer-Deployment/
+
+** Download the jar file and double click on the jar file, the project will be opened.
+
 youtube video of project - https://youtu.be/LpGrJw7Jdhk
 
 ---
